@@ -1,4 +1,4 @@
-const images=["re2.jpg", "mobitQP1O.jpg", "mobIDBsat.jpg", "c96f3813674b9861bd92a7f98f12c.png", "7c0b66287e152e72f051f6581147c-02.jpg"]
+const images=['./image/re2.jpg', './image/mobitQP1O.jpg', './image/mobIDBsat.jpg', './image/c96f3813674b9861bd92a7f98f12c.png', './image/7c0b66287e152e72f051f6581147c-02.jpg'];
 let currentIndex=0;
 
 function changeImage(){const imgElement=document.getElementById("slideshow");
